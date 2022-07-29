@@ -28,5 +28,4 @@ fi
 exit_code=$?
 
 # rethrowing the exit code to KubernetesPodOperator
-exit $exit_code 
-pepito
+exit $exit_code
