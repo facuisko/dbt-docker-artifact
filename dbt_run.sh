@@ -1,5 +1,5 @@
 #!/bin/bash
-mode=$1
+mode="1"
 dbt_target=$2
 dbt_models=$3
 dbt_vars=$4
